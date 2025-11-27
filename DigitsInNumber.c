@@ -17,6 +17,5 @@ int main() {
         }
     }
     printf("Number of digits: %d", count);
-
     return 0;
 }
